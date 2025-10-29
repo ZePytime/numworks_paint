@@ -4,7 +4,8 @@ by ZePytime, available at: https://github.com/ZePytime/numworks_paint
 
 ## Description
 
-Bonjour, voici un petit script conçu pour être exécuté sur une calculatrice **NumWorks**, permettant de dessiner. Il comporte deux versions : une pour comprendre le fonctionnement et une seconde version optimisée pour des performances accrues.
+Bonjour, voici un petit script conçu pour être exécuté sur une calculatrice **NumWorks**, permettant de dessiner. Il comporte deux versions : une pour comprendre le fonctionnement et une seconde version optimisée pour des performances
+.
 
 ## Fonctionnement
 
