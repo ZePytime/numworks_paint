@@ -1,6 +1,8 @@
+#NumWorks Paint
+
 by ZePytime, available at: https://github.com/ZePytime/numworks_paint
 
-Idées d’amélioration :
+## Idées d’amélioration :
 - Agrandir le curseur lorsque le stylo est levé
 - Remplacer le fond uni par un fond généré aléatoirement (pour donner des idées de dessins)
 - Ajouter une fonction de retour en arrière
