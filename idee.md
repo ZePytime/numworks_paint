@@ -1,4 +1,4 @@
-# by ZePytime, available at: https://github.com/ZePytime/numworks_paint
+by ZePytime, available at: https://github.com/ZePytime/numworks_paint
 
 Idées d’amélioration :
 - Agrandir le curseur lorsque le stylo est levé
