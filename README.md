@@ -4,8 +4,7 @@ by ZePytime, available at: https://github.com/ZePytime/numworks_paint
 
 ## Description
 
-Bonjour, voici un petit script conçu pour être exécuté sur une calculatrice **NumWorks**, permettant de dessiner. Il comporte deux versions : une pour comprendre le fonctionnement et une seconde version optimisée pour des performances
-.
+Bonjour, voici un petit script conçu pour être exécuté sur une calculatrice **NumWorks**, permettant de dessiner. Il comporte deux versions : une pour comprendre le fonctionnement et une seconde version optimisée pour des performances.
 
 ## Fonctionnement
 
@@ -13,7 +12,8 @@ Bonjour, voici un petit script conçu pour être exécuté sur une calculatrice 
 - **OK** : Lever ou abaisser le stylo (pour dessiner).
 - **+** : Augmenter la vitesse de déplacement du curseur (jusqu'à la limite de la puissance de calcul de la calculatrice).
 - **-** : Diminuer la vitesse de déplacement du curseur.
-- **1-9** : Modifier la taille du curseur.
+- **x** : Augmenter la taille du curseur.
+- **÷** : Diminuer la taille du curseur.
 - Pour changer de couleur, il faut se déplacer dans la zone de couleurs correspondante (blanc, noir, rouge, jaune, vert, bleu, rose).
 - Le curseur comporte un rectangle gris, ce qui permet de le repérer plus facilement sur un fond uni de la couleur du curseur (seulement avec une taille > 2).
 
