@@ -1,4 +1,4 @@
-#NumWorks Paint
+# NumWorks Paint
 
 by ZePytime, available at: https://github.com/ZePytime/numworks_paint
 
